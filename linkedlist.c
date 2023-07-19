@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <conio.h>
 #define MAX_PLS 20 
 typedef struct Song{
     char singer[50];
